@@ -2,6 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2026-02-28T13:27:23 IST" name="AmazonSuite" finished-at="2026-02-28T13:27:41 IST" duration-ms="17980">
     <groups>
     </groups>
@@ -40,6 +41,18 @@
           </reporter-output>
         </test-method> <!-- tearDownReport -->
       </class> <!-- tests.tests -->
+=======
+  <suite started-at="2026-02-28T14:53:14 IST" name="AmazonSuite" finished-at="2026-02-28T14:53:25 IST" duration-ms="10871">
+    <groups>
+    </groups>
+    <test started-at="2026-02-28T14:53:14 IST" name="SmokeTests" finished-at="2026-02-28T14:53:25 IST" duration-ms="10871">
+      <class name="tests.PetTests">
+        <test-method signature="fullCrudFlow()[pri:0, instance:tests.PetTests@4802796d]" started-at="2026-02-28T14:53:14 IST" name="fullCrudFlow" finished-at="2026-02-28T14:53:25 IST" duration-ms="10818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullCrudFlow -->
+      </class> <!-- tests.PetTests -->
+>>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
     </test> <!-- SmokeTests -->
   </suite> <!-- AmazonSuite -->
 </testng-results>
