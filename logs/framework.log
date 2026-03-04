@@ -1,0 +1,18 @@
+2026-02-28 13:19:11 INFO  tests.tests - Reading test data from Excel file
+2026-02-28 13:19:12 INFO  tests.tests - ===== Starting Amazon Test Flow =====
+2026-02-28 13:19:12 INFO  tests.tests - Product Name from Excel: lipsticks
+2026-02-28 13:19:12 INFO  tests.tests - Quantity from Excel: 1.0
+2026-02-28 13:19:12 INFO  tests.tests - Hovering over product search field
+2026-02-28 13:19:19 INFO  tests.tests - Selecting suggestion from search results
+2026-02-28 13:19:25 INFO  tests.tests - Clicking on selected product
+2026-02-28 13:19:27 INFO  tests.tests - Switching to product window tab
+2026-02-28 13:19:28 INFO  tests.tests - Selecting product quantity
+2026-02-28 13:19:33 INFO  tests.tests - Adding product to cart
+2026-02-28 13:19:36 INFO  tests.tests - Validating cart page title
+2026-02-28 13:19:36 INFO  tests.tests - Test completed successfully
+2026-02-28 13:19:36 INFO  tests.tests - ===== Amazon Test Flow Completed =====
+2026-02-28 13:19:36 INFO  tests.tests - ===== Starting Amazon Test Flow =====
+2026-02-28 13:19:36 INFO  tests.tests - Product Name from Excel: shampoo
+2026-02-28 13:19:36 INFO  tests.tests - Quantity from Excel: 2.0
+2026-02-28 13:19:36 INFO  tests.tests - Hovering over product search field
+2026-02-28 13:19:39 INFO  tests.tests - Selecting suggestion from search results
