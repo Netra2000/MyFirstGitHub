@@ -94,6 +94,7 @@
 		</dependency>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi</artifactId>
@@ -104,6 +105,9 @@
     <artifactId>poi-ooxml</artifactId>
     <version>5.2.5</version>
 </dependency>
+=======
+
+>>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
 =======
 
 >>>>>>> cf34520bcec40adc37ca19a98277521414835cc9

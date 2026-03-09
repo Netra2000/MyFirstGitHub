@@ -3,6 +3,7 @@
   <reporter-output>
   </reporter-output>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <suite started-at="2026-02-28T13:27:23 IST" name="AmazonSuite" finished-at="2026-02-28T13:27:41 IST" duration-ms="17980">
     <groups>
     </groups>
@@ -42,6 +43,8 @@
         </test-method> <!-- tearDownReport -->
       </class> <!-- tests.tests -->
 =======
+=======
+>>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
   <suite started-at="2026-02-28T14:53:14 IST" name="AmazonSuite" finished-at="2026-02-28T14:53:25 IST" duration-ms="10871">
     <groups>
     </groups>
@@ -52,6 +55,9 @@
           </reporter-output>
         </test-method> <!-- fullCrudFlow -->
       </class> <!-- tests.PetTests -->
+<<<<<<< HEAD
+>>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
+=======
 >>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
     </test> <!-- SmokeTests -->
   </suite> <!-- AmazonSuite -->

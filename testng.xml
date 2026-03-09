@@ -3,6 +3,7 @@
 
 <suite name="AmazonSuite">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <listeners>
         <!-- Add your listener class here -->
         <listener class-name="utils.TestListener"/>
@@ -12,11 +13,16 @@
         <classes>
             <class name="tests.tests"/>
 =======
+=======
+>>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
    
 
     <test name="SmokeTests">
         <classes>
             <class name="tests.PetTests"/>
+<<<<<<< HEAD
+>>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
+=======
 >>>>>>> cf34520bcec40adc37ca19a98277521414835cc9
         </classes>
     </test>
