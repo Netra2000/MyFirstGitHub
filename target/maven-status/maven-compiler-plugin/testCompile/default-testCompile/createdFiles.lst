@@ -1,0 +1,10 @@
+client\APIClient.class
+tests\tests.class
+utils\ConfigReader.class
+tests\PetTests.class
+tests\tests2.class
+api\testing\Amm.class
+endpoint\Routes.class
+Base\BaseAPI.class
+utils\AssertionUtil.class
+payloads\PetPayload.class

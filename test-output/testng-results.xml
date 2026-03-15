@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-15T19:29:24 IST" name="AmazonSuite" finished-at="2026-03-15T19:29:41 IST" duration-ms="16785">
+    <groups>
+    </groups>
+    <test started-at="2026-03-15T19:29:24 IST" name="SmokeTests" finished-at="2026-03-15T19:29:41 IST" duration-ms="16785">
+      <class name="tests.tests">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:tests.tests@376a0d86]" started-at="2026-03-15T19:29:24 IST" name="setupReport" finished-at="2026-03-15T19:29:24 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.tests@376a0d86]" started-at="2026-03-15T19:29:24 IST" name="setup" finished-at="2026-03-15T19:29:27 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAmazonFlow(java.lang.String,java.lang.String)[pri:0, instance:tests.tests@376a0d86]" started-at="2026-03-15T19:29:29 IST" name="testAmazonFlow" data-provider="excelData" finished-at="2026-03-15T19:29:41 IST" duration-ms="12274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lipsticks]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.tests@376a0d86]" started-at="2026-03-15T19:29:41 IST" name="tearDown" finished-at="2026-03-15T19:29:41 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:tests.tests@376a0d86]" started-at="2026-03-15T19:29:42 IST" name="tearDownReport" finished-at="2026-03-15T19:29:42 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
+      </class> <!-- tests.tests -->
+    </test> <!-- SmokeTests -->
+  </suite> <!-- AmazonSuite -->
+</testng-results>
