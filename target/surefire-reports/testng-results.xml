@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-15T19:45:54 IST" name="AmazonSuite" finished-at="2026-03-15T19:46:12 IST" duration-ms="18527">
+  <suite started-at="2026-03-15T20:19:41 IST" name="AmazonSuite" finished-at="2026-03-15T20:20:12 IST" duration-ms="30317">
     <groups>
     </groups>
-    <test started-at="2026-03-15T19:45:54 IST" name="SmokeTests" finished-at="2026-03-15T19:46:12 IST" duration-ms="18527">
+    <test started-at="2026-03-15T20:19:41 IST" name="SmokeTests" finished-at="2026-03-15T20:20:12 IST" duration-ms="30317">
       <class name="tests.tests">
-        <test-method is-config="true" signature="setupReport()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T19:45:54 IST" name="setupReport" finished-at="2026-03-15T19:45:54 IST" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T20:19:41 IST" name="setupReport" finished-at="2026-03-15T20:19:41 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupReport -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T19:45:54 IST" name="setup" finished-at="2026-03-15T19:45:58 IST" duration-ms="3786" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T20:19:42 IST" name="setup" finished-at="2026-03-15T20:19:45 IST" duration-ms="3231" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testAmazonFlow(java.lang.String,java.lang.String)[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T19:45:58 IST" name="testAmazonFlow" data-provider="excelData" finished-at="2026-03-15T19:46:12 IST" duration-ms="13711" status="PASS">
+        <test-method signature="testAmazonFlow(java.lang.String,java.lang.String)[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T20:19:47 IST" name="testAmazonFlow" data-provider="excelData" finished-at="2026-03-15T20:20:11 IST" duration-ms="24752" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,11 +31,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAmazonFlow -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T19:46:12 IST" name="tearDown" finished-at="2026-03-15T19:46:12 IST" duration-ms="190" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T20:20:11 IST" name="tearDown" finished-at="2026-03-15T20:20:12 IST" duration-ms="346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T19:46:13 IST" name="tearDownReport" finished-at="2026-03-15T19:46:13 IST" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:tests.tests@45099dd3]" started-at="2026-03-15T20:20:13 IST" name="tearDownReport" finished-at="2026-03-15T20:20:13 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownReport -->
